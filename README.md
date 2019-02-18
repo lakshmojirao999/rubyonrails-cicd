@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-It is Development branch taken from master Github Access Token updated
+It is Development branch taken from master Github Access/Jenkins secerate Token updated
