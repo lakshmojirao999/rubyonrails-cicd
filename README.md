@@ -26,3 +26,4 @@ Things you may want to cover:
 GPullBuilder Test feature/branch1
 GPullBuilder Test feature/branch2
 GPullBuilder Test push event test1
+Git commit test build
