@@ -25,3 +25,4 @@ Things you may want to cover:
 
 It is Development branch taken from master.
 Testing for push event to initiate build
+Testing Git commit build
